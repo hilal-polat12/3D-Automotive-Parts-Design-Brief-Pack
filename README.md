@@ -2,11 +2,11 @@
 
 # 3D Automotive & Parts Design Brief Pack
 
-**450 original, brand-free automotive 3D printing prompts split into full concept vehicles and production-ready parts, each with real parametric specs.**
+**450 original, brand-free automotive 3D printing prompts — split into full concept vehicles and production-ready parts, each with real parametric specs.**
 
 [![Prompts](https://img.shields.io/badge/Prompts-450-B91C1C)](#) [![Categories](https://img.shields.io/badge/Categories-15-1F2937)](#) [![Production Parts](https://img.shields.io/badge/Production%20Ready%20Parts-300-15803D)](#) [![Sample Renders](https://img.shields.io/badge/Preview%20Renders-8%20included-15803D)](#)
 
-<img src="previews/CAT07-P01_Deep_Dish_Multi_Spoke_Performance_Rim_v1_preview.png" width="180"> <img src="previews/CAT10-P10_Wheel_Rim_Wall_Clock_v1_preview.png" width="180"> <img src="previews/CAT08-P02_Power_Bulge_Vase_v1_preview.png" width="180"> <img src="previews/CAT10-P05_Tire_Tread_Custom_Gear_Knob_v1_preview.png" width="180">
+<img src="CAT07-P01_Deep_Dish_Multi_Spoke_Performance_Rim_v1_preview.png" width="180"> <img src="CAT10-P10_Wheel_Rim_Wall_Clock_v1_preview.png" width="180"> <img src="CAT08-P02_Power_Bulge_Vase_v1_preview.png" width="180"> <img src="CAT10-P05_Tire_Tread_Custom_Gear_Knob_v1_preview.png" width="180">
 
 **[📩 Get the full pack — message on LinkedIn](https://linkedin.com/in/hilal-polat12)**
 
@@ -16,18 +16,18 @@
 
 ## Why this pack is different
 
-Most "3D printing prompt packs" on the market are AI-image prompts dressed up as product listings vague adjectives with no real production value. This pack is built the opposite way:
+Most "3D printing prompt packs" on the market are AI-image prompts dressed up as product listings — vague adjectives with no real production value. This pack is built the opposite way:
 
-- **300 of the 450 prompts are production specs, not just descriptions.** Every part prompt includes real parametric dimensions in millimeters, a tolerance note, a named assembly method (press-fit, screw boss, snap-fit clip, dovetail, bayonet mount each with real numbers), a specific material and print profile, and a file naming convention. You can hand a prompt straight to a CAD modeler and they can start working immediately.
-- **Verified against real geometry, not just written.** 8 parts from this pack were modeled in CadQuery directly from their documented specs and exported as watertight, print-ready `.stl` files, then rendered the previews below show real, checked geometry, not concept art.
-- **No copy-paste template feel.** Every prompt's opening sentence, every supporting detail, and every technical section (tolerances, assembly method, material) was checked programmatically for repetition. Result: zero duplicate sentences within any 30-prompt category see the [proof below](#quality-you-can-verify).
+- **300 of the 450 prompts are production specs, not just descriptions.** Every part prompt includes real parametric dimensions in millimeters, a tolerance note, a named assembly method (press-fit, screw boss, snap-fit clip, dovetail, bayonet mount — each with real numbers), a specific material and print profile, and a file naming convention. You can hand a prompt straight to a CAD modeler and they can start working immediately.
+- **Verified against real geometry, not just written.** 8 parts from this pack were modeled in CadQuery directly from their documented specs and exported as watertight, print-ready `.stl` files, then rendered — the previews below show real, checked geometry, not concept art.
+- **No copy-paste template feel.** Every prompt's opening sentence, every supporting detail, and every technical section (tolerances, assembly method, material) was checked programmatically for repetition. Result: zero duplicate sentences within any 30-prompt category — see the [proof below](#quality-you-can-verify).
 
 ## What you get
 
 | | |
 |---|---|
-| 📄 **150 Design Concept prompts** | Full vehicle bodies (classic, supercar, EV, off-road, motorsport) written for AI text-to-3D tools or as a brief for a human modeler in Blender / ZBrush / Fusion 360 |
-| 🔧 **300 Production-Ready Part prompts** | Real, geometrically defined components — wheels, brackets, trim, interior parts, lighting, decor each with parametric CAD specs |
+| 📄 **150 Design Concept prompts** | Full vehicle bodies (classic, supercar, EV, off-road, motorsport) — written for AI text-to-3D tools or as a brief for a human modeler in Blender / ZBrush / Fusion 360 |
+| 🔧 **300 Production-Ready Part prompts** | Real, geometrically defined components — wheels, brackets, trim, interior parts, lighting, decor — each with parametric CAD specs |
 | 📊 **A 450-row Excel index** | Filterable lookup by category, prompt number, part name, and file code |
 | 📁 **A defined file naming & folder system** | `CATxx-Pyy_PartName_v1.stl` convention, ready to organize a real production library |
 
@@ -44,19 +44,19 @@ Most "3D printing prompt packs" on the market are AI-image prompts dressed up as
 These previews are generated directly from real, verified geometry modeled from this pack's own documented specs — not concept art. They show exactly what the parametric specs actually produce.
 
 <p align="center">
-<img src="previews/CAT07-P01_Deep_Dish_Multi_Spoke_Performance_Rim_v1_preview.png" width="200">
-<img src="previews/CAT10-P01_Sports_Car_Silhouette_Keychain_v1_preview.png" width="200">
-<img src="previews/CAT08-P01_Tension_Line_Table_Lamp_v1_preview.png" width="200">
-<img src="previews/CAT10-P09_Piston_Shaped_Bottle_Opener_v1_preview.png" width="200">
+<img src="CAT07-P01_Deep_Dish_Multi_Spoke_Performance_Rim_v1_preview.png" width="200">
+<img src="CAT10-P01_Sports_Car_Silhouette_Keychain_v1_preview.png" width="200">
+<img src="CAT08-P01_Tension_Line_Table_Lamp_v1_preview.png" width="200">
+<img src="CAT10-P09_Piston_Shaped_Bottle_Opener_v1_preview.png" width="200">
 </p>
 <p align="center">
-<img src="previews/CAT09-P01_Generic_Sports_Coupe_Silhouette_v1_preview.png" width="200">
-<img src="previews/CAT10-P05_Tire_Tread_Custom_Gear_Knob_v1_preview.png" width="200">
-<img src="previews/CAT08-P02_Power_Bulge_Vase_v1_preview.png" width="200">
-<img src="previews/CAT10-P10_Wheel_Rim_Wall_Clock_v1_preview.png" width="200">
+<img src="CAT09-P01_Generic_Sports_Coupe_Silhouette_v1_preview.png" width="200">
+<img src="CAT10-P05_Tire_Tread_Custom_Gear_Knob_v1_preview.png" width="200">
+<img src="CAT08-P02_Power_Bulge_Vase_v1_preview.png" width="200">
+<img src="CAT10-P10_Wheel_Rim_Wall_Clock_v1_preview.png" width="200">
 </p>
 
-`.stl` and `.step` files are available with the full pack purchase see [`previews/`](previews/) for preview images shown above.
+`.stl` and `.step` files are available with the full pack purchase — see the preview images above for preview images shown above.
 
 ## What one full prompt actually looks like
 
@@ -105,7 +105,7 @@ The complete 470-page Word document and the 450-row Excel index are available fo
 ## FAQ
 
 **Do I need CAD skills to use this?**
-For the 150 design concept prompts, no paste them into an AI text-to-3D tool. For the 300 production part prompts, basic familiarity with a parametric CAD tool (Fusion 360, SolidWorks, CadQuery) helps, since the specs are written to be modeled directly.
+For the 150 design concept prompts, no — paste them into an AI text-to-3D tool. For the 300 production part prompts, basic familiarity with a parametric CAD tool (Fusion 360, SolidWorks, CadQuery) helps, since the specs are written to be modeled directly.
 
 **Is this a set of AI image prompts?**
 No. The production part prompts are closer to an engineering brief — dimensions, tolerances, assembly method, and material are all specified numerically, not just described.
